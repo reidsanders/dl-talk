@@ -1,3 +1,3 @@
-# IEEE deep learning talk
+# IEEE Deep Learning Talk
 
-See slides, and example code
+Follow along on the slides while watching the [video](https://youtu.be/3Jquy8-ZTtA).
